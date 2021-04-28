@@ -2,7 +2,10 @@ body {
     background-color:black;
     text-align: center;
     font-family: Verdana;
-    color: white
+    color: white;
+    align-content: center;
+   
+    
 }
 
 h1 {
